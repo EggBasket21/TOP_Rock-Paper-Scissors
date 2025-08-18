@@ -1,6 +1,5 @@
 let humanScore = 0
 let computerScore = 0
-let gameRound = 1
 
 function getComputerChoice () {
     let choice = Math.floor(Math.random() * 3);
